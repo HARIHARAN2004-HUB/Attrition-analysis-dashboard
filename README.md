@@ -54,4 +54,4 @@ Dashboard Features
 -Dynamic visualizations for HR decision-making
 
 6.Screenshot:
-Dashboard:
+Dashboard: (https://github.com/HARIHARAN2004-HUB/Attrition-analysis-dashboard/blob/main/Attrition%20analysis.png)
